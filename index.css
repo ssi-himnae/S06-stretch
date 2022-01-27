@@ -76,6 +76,7 @@ footer span {
 	background-color: #002540;
 	padding:  0.8rem;
 	color: white;
+	padding-left: 8rem;
 }
 
 #pre-footer div {
@@ -85,4 +86,9 @@ footer span {
 	margin-right: 0.5rem;
 	width: 20%;
 	min-height: 150px;
+}
+
+
+#pre-footer h3 {
+	margin-bottom: 0.8rem;
 }
